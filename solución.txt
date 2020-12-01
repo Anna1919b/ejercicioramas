@@ -1,2 +1,12 @@
+<<<<<<< HEAD
 Aquí va el código fuente para solucionarla incidencia IC2394
+=======
+<<<<<<< HEAD
+Aquí va el código fuente para solucionar la incidencia IC2394
+=======
+Aquí va el código fuente para solucionar la incidencia IC2879
+>>>>>>> parche2
+
+>>>>>>> parche1
+Tira millas!
 
