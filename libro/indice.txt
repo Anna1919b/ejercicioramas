@@ -1,0 +1,10 @@
+<<<<<<< HEAD
+Capítulo 1: introducción a Git.
+Capítulo 2: flujo de trabajo básico.
+=======
+capítulo 5: 
+Conceptos avanzados
+GitFlow:el flujo de trabajo en Git.
+
+>>>>>>> cambiaindice
+

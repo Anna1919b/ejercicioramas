@@ -1,2 +1,4 @@
-añadido capitulo 3
+
+Git permite la creación de ramas lo que permite tener distintas versiones del mismo proyecto y trabajar de manera simultánea en ellas.
+Me encanta la idea de mejorar mi mecanografía, pero aunque me piden cuatro o cinco líneas lo vamos a dejar así. Porque me guata más.
 
